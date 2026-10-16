@@ -7,7 +7,7 @@ Plants need to defend themselves against a wide diversity of herbivorous insects
 # General procedure statistical analysis
 1. Exploring data
 2. Defining different (G)L(M)M models with transformed or non transformed data and different data distributions
-3. Testing which model fits the data best using the DHARMa package
+3. Testing which model fits the data best using the DHARMa package (I made a custom function to show model fit nicely, this function is in the R script folder)
 4. Extracting statistical information of the best fitting model
 5. Post hoc test on best fitting model if applicable
 
